@@ -27,8 +27,8 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <!-- 브라우저를 통해 받은 인텐트 -->
-                <data android:host="call_back"
-                    android:scheme="https://part04_ch05_githubrepository/"/>
+                <data android:host="part04_ch05_githubrepository/call_back"
+                    android:scheme="https"/>
 
             </intent-filter>
 
